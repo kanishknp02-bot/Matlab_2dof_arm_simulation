@@ -1,4 +1,4 @@
-# Matlab_2dof_arm_simulation
+![Multibody - Made with Clipchamp](https://github.com/user-attachments/assets/5421daa4-f9db-4a40-b973-8ce769b53968)# Matlab_2dof_arm_simulation
 MATLAB/Simulink simulation of a 2-DOF robotic arm with sine and square wave trajectory tracking.
 
 2Dof Arm Matlab Model
@@ -7,4 +7,7 @@ MATLAB/Simulink simulation of a 2-DOF robotic arm with sine and square wave traj
 
 Sine Wave simulation
 
-![Image](https://github.com/user-attachments/assets/a32a5c2e-8111-4c8d-8ca5-394d4800aaa3)
+
+
+
+![Multibody - Made with Clipchamp](https://github.com/user-attachments/assets/51c5da43-8c52-4545-84de-765ed77abeff)
