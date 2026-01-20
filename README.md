@@ -7,5 +7,4 @@ MATLAB/Simulink simulation of a 2-DOF robotic arm with sine and square wave traj
 
 Sine Wave simulation
 
-
-![Dof Arm sine wave - Made with Clipchamp](https://github.com/user-attachments/assets/fafa7062-ba7a-45cf-ba59-3112fa0a5532)
+![Image](https://github.com/user-attachments/assets/a32a5c2e-8111-4c8d-8ca5-394d4800aaa3)
